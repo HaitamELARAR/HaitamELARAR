@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Haitam 👋
 
-<!--
-**HaitamELARAR/HaitamELARAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied AI projects in NLP, retrieval-augmented generation and computer vision, and I try to report what I measure, limits included.
 
-Here are some ideas to get you started:
+**Open to:** internship in data / AI engineering, in France.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **AI / Data:** Python, PyTorch, Hugging Face, LangGraph, scikit-learn, SQL
+- **Vision:** C++, OpenCV
+- **Web:** FastAPI, React, JavaScript, Tailwind CSS
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/haitam-el-arar) · elarar123haitam@gmail.com
